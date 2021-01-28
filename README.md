@@ -1,9 +1,9 @@
 # Inject.Net
 Inject.Net is a dll injector which allows injecting .Net dlls into other processes. It supports injecting both 32-bit and 64-bit .Net Framework and .Net Core dlls.
 
-It have been tested on .Net Framework 4.8 dll, but in theory it sohuld work with all .Net Framework versions.
+It have been tested on .Net Framework 4.8 dll, but in theory it should work with all .Net Framework versions.
 
-It have been tested on .Net 5 dll, but in theory it sohuld work with .Net Core 3 and should not work with Net Core 2.
+It have been tested on .Net 5 dll, but in theory it should work with .Net Core 3 and should not work with Net Core 2.
 
 It is currently in an early, yet working, state and it have not been fairly tested.
 
